@@ -58,6 +58,9 @@ alicek106이 직접 푼 알고리즘 문제들을 종류 별로 분류해 저장합니다.
 
 [[10814번] 나이 순 정렬](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/6-sort-10814.cpp)
 
+## 7. 문자열
+[[11655번] ROT13](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/7-str-11655.py)
+
 ## 9999. 기타
 
 [[1764번] 듣보잡](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-1764.cpp)
