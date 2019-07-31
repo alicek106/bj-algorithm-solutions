@@ -1,74 +1,80 @@
-# ¹éÁØ ¾Ë°í¸®Áò ÇØ´ä
+# ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ í•´ë‹µ
 
-alicek106ÀÌ Á÷Á¢ Ç¬ ¾Ë°í¸®Áò ¹®Á¦µéÀ» Á¾·ù º°·Î ºĞ·ùÇØ ÀúÀåÇÕ´Ï´Ù.
+alicek106ì´ ì§ì ‘ í‘¼ ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œë“¤ì„ ì¢…ë¥˜ ë³„ë¡œ ë¶„ë¥˜í•´ ì €ì¥í•©ë‹ˆë‹¤.
+
+## 0. ì¸ìƒì„ í¸í•˜ê²Œ í•´ì£¼ëŠ” regex
+ê° ë¬¸ì œì˜ ë§í¬ëŠ” converter.py íŒŒì¼ì´ input.txt íŒŒì¼ë¡œë¶€í„° ìë™ìœ¼ë¡œ ìƒì„±í•©ë‹ˆë‹¤.
 
 ## 1. Greedy
 
-[[1700¹ø] ¸ÖÆ¼ÅÇ ½ºÄÉÁÙ¸µ](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-1700.cpp)
+[[1700ë²ˆ] ë©€í‹°íƒ­ ìŠ¤ì¼€ì¤„ë§](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-1700.cpp)
 
-[[1931¹ø] È¸ÀÇ½Ç ¹èÁ¤](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-1931.cpp)
+[[1931ë²ˆ] íšŒì˜ì‹¤ ë°°ì •](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-1931.cpp)
 
-[[2875¹ø] ´ëÈ¸ or ÀÎÅÏ](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-2875.cpp)
+[[2875ë²ˆ] ëŒ€íšŒ or ì¸í„´](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-2875.cpp)
 
-[[5585¹ø] °Å½º¸§µ·](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-5585.cpp)
+[[5585ë²ˆ] ê±°ìŠ¤ë¦„ëˆ](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-5585.cpp)
 
-[[11047¹ø] µ¿Àü 0](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-11047.cpp)
+[[11047ë²ˆ] ë™ì „ 0](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-11047.cpp)
 
-[[11399¹ø] ATM](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-11399.cpp)
+[[11399ë²ˆ] ATM](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-11399.cpp)
 
-## 2. µ¿Àû °èÈ¹¹ı
+## 2. ë™ì  ê³„íšë²•
 
-[[1149¹ø] RGB °Å¸®](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-1149.cpp)
+[[1149ë²ˆ] RGB ê±°ë¦¬](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-1149.cpp)
 
-[[11052¹ø] Ä«µå ±¸¸ÅÇÏ±â](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-11052.cpp)
+[[11052ë²ˆ] ì¹´ë“œ êµ¬ë§¤í•˜ê¸°](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-11052.cpp)
 
-[[11726¹ø] 2*n Å¸ÀÏ¸µ](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-11726.cpp)
+[[11726ë²ˆ] 2*n íƒ€ì¼ë§](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-11726.cpp)
 
-## 3. Stack, Queue, List, Heap µî ÀÚ·á ±¸Á¶
+## 3. Stack, Queue, List, Heap ë“± ìë£Œ êµ¬ì¡°
 
-[[1158¹ø] Á¶¼¼ÆÛ½º ¹®Á¦](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-1158.cpp)
+[[1158ë²ˆ] ì¡°ì„¸í¼ìŠ¤ ë¬¸ì œ](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-1158.cpp)
 
-[[1927¹ø] ÃÖ¼Ò Èü](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-1927.cpp)
+[[1927ë²ˆ] ìµœì†Œ í™](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-1927.cpp)
 
-[[11279¹ø] ÃÖ´ë Èü](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-11279.cpp)
+[[11279ë²ˆ] ìµœëŒ€ í™](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-11279.cpp)
 
-[[5639¹ø] ÀÌÁø °Ë»ö Æ®¸®](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-5639.cpp)
+[[5639ë²ˆ] ì´ì§„ ê²€ìƒ‰ íŠ¸ë¦¬](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-5639.cpp)
 
-[[7785¹ø] È¸»ç¿¡ ÀÖ´Â »ç¶÷](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-7785.cpp)
+[[7785ë²ˆ] íšŒì‚¬ì— ìˆëŠ” ì‚¬ëŒ](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-7785.cpp)
 
-[[9012¹ø] °ıÈ£](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-9012.cpp)
+[[9012ë²ˆ] ê´„í˜¸](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-9012.cpp)
 
-## 4. BFS, DFS (³Êºñ¿ì¼±, ±íÀÌ¿ì¼± Å½»ö)
+[[1655ë²ˆ] ê°€ìš´ë°ë¥¼ ë§í•´ìš”](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-1655.py)
 
-[[1260¹ø] DFS¿Í BFS](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/4-bfs-dfs-1260.cpp)
+## 4. BFS, DFS (ë„ˆë¹„ìš°ì„ , ê¹Šì´ìš°ì„  íƒìƒ‰)
 
-[[2606¹ø] ¹ÙÀÌ·¯½º](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/4-bfs-dfs-2606.cpp)
+[[1260ë²ˆ] DFSì™€ BFS](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/4-bfs-dfs-1260.cpp)
 
-[[11724¹ø] ¿¬°á ¿ä¼ÒÀÇ °³¼ö](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/4-bfs-dfs-11724.cpp)
+[[2606ë²ˆ] ë°”ì´ëŸ¬ìŠ¤](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/4-bfs-dfs-2606.cpp)
 
-## 5. ÀÌºĞ Å½»ö
+[[11724ë²ˆ] ì—°ê²° ìš”ì†Œì˜ ê°œìˆ˜](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/4-bfs-dfs-11724.cpp)
 
-[[1654¹ø] ·£¼± ÀÚ¸£±â](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/5-binary-search-1654.cpp)
+## 5. ì´ë¶„ íƒìƒ‰
 
-[[1920¹ø] ¼ö Ã£±â](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/5-binary-search-1920.cpp)
+[[1654ë²ˆ] ëœì„  ìë¥´ê¸°](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/5-binary-search-1654.cpp)
 
-[[2805¹ø] ³ª¹« ÀÚ¸£±â](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/5-binary-search-2805.cpp)
+[[1920ë²ˆ] ìˆ˜ ì°¾ê¸°](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/5-binary-search-1920.cpp)
 
-## 6. Á¤·Ä
+[[2805ë²ˆ] ë‚˜ë¬´ ìë¥´ê¸°](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/5-binary-search-2805.cpp)
 
-[[10814¹ø] ³ªÀÌ ¼ø Á¤·Ä](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/6-sort-10814.cpp)
+## 6. ì •ë ¬
 
-## 7. ¹®ÀÚ¿­
-[[11655¹ø] ROT13](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/7-str-11655.py)
+[[10814ë²ˆ] ë‚˜ì´ ìˆœ ì •ë ¬](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/6-sort-10814.cpp)
 
-## 9999. ±âÅ¸
+## 7. ë¬¸ìì—´
 
-[[1764¹ø] µèº¸Àâ](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-1764.cpp)
+[[11655ë²ˆ] ROT13](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/7-str-11655.py)
 
-[[2609¹ø] ÃÖ´ë°ø¾à¼ö¿Í ÃÖ¼Ò°ø¹è¼ö](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-2609.cpp)
+## 9999. ê¸°íƒ€
 
-[[2752¹ø] ¼¼¼ö Á¤·Ä](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-2752.cpp)
+[[1764ë²ˆ] ë“£ë³´ì¡](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-1764.cpp)
 
-[[2839¹ø] ¼³ÅÁ ¹è´Ş](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-2839.cpp)
+[[2609ë²ˆ] ìµœëŒ€ê³µì•½ìˆ˜ì™€ ìµœì†Œê³µë°°ìˆ˜](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-2609.cpp)
+
+[[2752ë²ˆ] ì„¸ìˆ˜ ì •ë ¬](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-2752.cpp)
+
+[[2839ë²ˆ] ì„¤íƒ• ë°°ë‹¬](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/9999-etc-2839.cpp)
 
 
