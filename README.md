@@ -19,6 +19,8 @@ alicek106이 직접 푼 알고리즘 문제들을 종류 별로 분류해 저장
 
 [[11399번] ATM](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-11399.cpp)
 
+[[2592번] 부등호](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/1-greedy-2592.py)
+
 ## 2. 동적 계획법
 
 [[1149번] RGB 거리](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-1149.cpp)
@@ -26,6 +28,8 @@ alicek106이 직접 푼 알고리즘 문제들을 종류 별로 분류해 저장
 [[11052번] 카드 구매하기](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-11052.cpp)
 
 [[11726번] 2*n 타일링](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-11726.cpp)
+
+[[1890번] 점프](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-1890.py)
 
 ## 3. Stack, Queue, List, Heap 등 자료 구조
 
