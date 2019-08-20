@@ -31,6 +31,14 @@ alicek106이 직접 푼 알고리즘 문제들을 종류 별로 분류해 저장
 
 [[1890번] 점프](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-1890.py)
 
+[[2293번] 동전 1](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-2293.py)
+
+[[11055번] 가장 큰 증가 부분 수열](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-11055.py)
+
+[[1932번] 정수 삼각형](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-1932.py)
+
+[[2156번] 포도주 시식](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/2-dp-2156py)
+
 ## 3. Stack, Queue, List, Heap 등 자료 구조
 
 [[1158번] 조세퍼스 문제](https://github.com/alicek106/bj-algorithm-solutions/blob/master/src/3-data-structure-1158.cpp)
